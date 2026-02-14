@@ -2,6 +2,8 @@
 
 <h3>Visit this Site</h3>
 <p>https://gaurav0135.github.io/E-Shop/</p>
+    or
+<p>https://e-shop-1-2a68.onrender.com</p>
 
 <h3>E-Shop</h3>
 <div>It is e-commerse website that completely built in using JavaScript</div>
